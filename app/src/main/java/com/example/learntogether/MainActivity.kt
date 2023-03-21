@@ -38,7 +38,7 @@ class MainActivity : ComponentActivity() {
 //                        contentDescription = "Head img of the app", alignment = Alignment.TopStart  )
                     Image(painter = painterResource(id = R.drawable.bg_compose_background) ,
                         contentDescription = "Head",
-
+//
                         )
 //                    Greeting("Android Vedroid")
                     Text("Jetpack Compose Tutorial")
